@@ -2,7 +2,7 @@
 
 > Replication and extension of Kempf, Manconi & Spalt (2017): does institutional investor distraction causally increase the probability of merger activity?
 
-**Authors:** Leonardo Trapani, Tre' McMillan, Sebastian Czarnietzki, Novi van der Voort
+**Author:** Leonardo Trapani
 **Institution:** Erasmus School of Economics — February 2026
 
 ## Overview
